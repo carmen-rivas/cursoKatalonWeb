@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "06E7DA99FEFA84E7641A68EF52B6FB1A",
+  "keywordClasses": [
+    {
+      "name": "opencart.AddToCart",
+      "keywordMethods": [
+        {
+          "name": "addToCart",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

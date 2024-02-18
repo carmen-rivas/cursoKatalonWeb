@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "A9343005807C2DCCCC0A8039806E5E4B",
+  "keywordClasses": [
+    {
+      "name": "opencart.Login",
+      "keywordMethods": [
+        {
+          "name": "login",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

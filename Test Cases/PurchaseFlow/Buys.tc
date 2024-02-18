@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Buys</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>df4e768a-39eb-447c-9061-ffd469feb9a0</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>2bfc8dc2-9dd9-4997-a981-ec8920dbecec</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/Product Name</testDataId>
+   </testDataLinks>
+</TestCaseEntity>

@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "DD46930B4DE2E4F2347A80E87DB2004B",
+  "keywordClasses": [
+    {
+      "name": "opencart.Checkout",
+      "keywordMethods": [
+        {
+          "name": "checkout",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

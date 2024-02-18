@@ -1,0 +1,30 @@
+{
+  "keywordFileContentHash": "615D3DCEB6A9140D718FB65E6947F104",
+  "keywordClasses": [
+    {
+      "name": "opencart.Search",
+      "keywordMethods": [
+        {
+          "name": "searchProduct",
+          "parameters": [
+            {
+              "name": "product",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "703C955FBF48C63FC4E8424EBB423396",
+  "keywordClasses": [
+    {
+      "name": "product.Login",
+      "keywordMethods": [
+        {
+          "name": "login",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}
